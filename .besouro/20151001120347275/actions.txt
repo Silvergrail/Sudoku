@@ -58,3 +58,4 @@ RefactoringAction 1443692310025 TestSudokuVerifier.java RENAME NumberUnderTen()=
 RefactoringAction 1443692353712 SudokuVerifier.java REMOVE scanner FIELD
 RefactoringAction 1443692360247 SudokuVerifier.java REMOVE number FIELD
 EditAction 1443692540541 SudokuVerifier.java 833 1 4 0
+EditAction 1443692540710 TestSudokuVerifier.java 1064 7 7 0
