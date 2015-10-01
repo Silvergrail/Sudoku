@@ -64,3 +64,7 @@ UnitTestSessionAction 1443692541510 TestSudokuVerifier.NumbersUnderTen FAIL
 UnitTestCaseAction 1443692588703 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443692588704 TestSudokuVerifier FAIL
 EditAction 1443692625993 TestSudokuVerifier.java 1067 7 7 0
+UnitTestCaseAction 1443692626315 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692626316 TestSudokuVerifier FAIL
+RefactoringAction 1443692673006 TestSudokuVerifier.java ADD void TestList FIELD
+EditAction 1443692841621 TestSudokuVerifier.java 1218 8 8 0

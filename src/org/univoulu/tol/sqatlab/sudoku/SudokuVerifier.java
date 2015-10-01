@@ -13,7 +13,7 @@ public class SudokuVerifier {
 
 	public int verify(String candidateSolution) {
 		
-		Scanner scanner = new Scanner(validAnswer);
+		Scanner scanner = new Scanner(candidateSolution);
 		
 		List<Integer> intList = null;
 		
