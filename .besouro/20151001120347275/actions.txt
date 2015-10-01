@@ -59,3 +59,8 @@ RefactoringAction 1443692353712 SudokuVerifier.java REMOVE scanner FIELD
 RefactoringAction 1443692360247 SudokuVerifier.java REMOVE number FIELD
 EditAction 1443692540541 SudokuVerifier.java 833 1 4 0
 EditAction 1443692540710 TestSudokuVerifier.java 1064 7 7 0
+UnitTestCaseAction 1443692541506 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692541510 TestSudokuVerifier.NumbersUnderTen FAIL
+UnitTestCaseAction 1443692588703 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692588704 TestSudokuVerifier FAIL
+EditAction 1443692625993 TestSudokuVerifier.java 1067 7 7 0
