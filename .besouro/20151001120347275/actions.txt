@@ -1,0 +1,60 @@
+FileOpenedAction 1443690227553 SudokuVerifier.java 227 1 1 0
+RefactoringAction 1443690290777 SudokuVerifier.java ADD List numberList FIELD
+RefactoringAction 1443690321693 SudokuVerifier.java REMOVE numberList FIELD
+RefactoringAction 1443690323201 SudokuVerifier.java ADD List<> numberList FIELD
+RefactoringAction 1443690334217 SudokuVerifier.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1443690343231 SudokuVerifier.java REMOVE numberList FIELD
+RefactoringAction 1443690346237 SudokuVerifier.java ADD List<E> numberList FIELD
+RefactoringAction 1443690371776 SudokuVerifier.java REMOVE numberList FIELD
+RefactoringAction 1443690378287 SudokuVerifier.java ADD List<> numberList FIELD
+RefactoringAction 1443690379300 SudokuVerifier.java REMOVE numberList FIELD
+RefactoringAction 1443690382815 SudokuVerifier.java ADD List<> numberList FIELD
+RefactoringAction 1443690420332 SudokuVerifier.java REMOVE numberList FIELD
+RefactoringAction 1443690425348 SudokuVerifier.java ADD List<Integer> numberList FIELD
+RefactoringAction 1443690569070 TestSudokuVerifier.java ADD void setup() METHOD
+RefactoringAction 1443690576763 TestSudokuVerifier.java ADD import org.junit.Before IMPORT
+RefactoringAction 1443690646738 TestSudokuVerifier.java ADD String valid_answer FIELD
+RefactoringAction 1443690676787 TestSudokuVerifier.java RENAME valid_answer=>String validAnswer FIELD
+RefactoringAction 1443690681295 TestSudokuVerifier.java ADD String invalidAnswer FIELD
+RefactoringAction 1443690901124 TestSudokuVerifier.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1443690901124 TestSudokuVerifier.java ADD import java.util.List IMPORT
+RefactoringAction 1443691760027 TestSudokuVerifier.java ADD void test()/2 METHOD
+RefactoringAction 1443691760028 TestSudokuVerifier.java ADD void test()/3 METHOD
+RefactoringAction 1443691760029 TestSudokuVerifier.java ADD void test()/4 METHOD
+RefactoringAction 1443691760029 TestSudokuVerifier.java ADD void test()/5 METHOD
+RefactoringAction 1443691768542 TestSudokuVerifier.java RENAME test()/5=><initializer /1> null
+RefactoringAction 1443691772057 TestSudokuVerifier.java RENAME <initializer /1>=>void Stringlength() METHOD
+RefactoringAction 1443691777068 TestSudokuVerifier.java RENAME test()/4=>void Global() METHOD
+RefactoringAction 1443691781078 TestSudokuVerifier.java RENAME Global()=>void GlobalNumber() METHOD
+RefactoringAction 1443691784590 TestSudokuVerifier.java RENAME test()/3=><initializer /1> null
+RefactoringAction 1443691792599 TestSudokuVerifier.java RENAME <initializer /1>=>void SubGlobal() METHOD
+RefactoringAction 1443691794609 TestSudokuVerifier.java RENAME SubGlobal()=>void SubGlobalNumber() METHOD
+RefactoringAction 1443691801624 TestSudokuVerifier.java RENAME test()/2=><initializer /1> null
+RefactoringAction 1443691805133 TestSudokuVerifier.java RENAME <initializer /1>=>void All() METHOD
+RefactoringAction 1443691824153 TestSudokuVerifier.java RENAME All()=><initializer /1> null
+RefactoringAction 1443691829663 TestSudokuVerifier.java RENAME <initializer /1>=>void SubGlobalRepitition() METHOD
+RefactoringAction 1443691833674 TestSudokuVerifier.java RENAME SubGlobalRepitition()=>void SubGlobalRepetition() METHOD
+RefactoringAction 1443691838686 TestSudokuVerifier.java RENAME test()=><initializer /1> null
+RefactoringAction 1443691848695 TestSudokuVerifier.java RENAME <initializer /1>=>void P() METHOD
+RefactoringAction 1443691853208 TestSudokuVerifier.java RENAME P()=>void PositiveNumbers() METHOD
+RefactoringAction 1443691856225 TestSudokuVerifier.java ADD void test() METHOD
+RefactoringAction 1443691860243 TestSudokuVerifier.java RENAME test()=><initializer /1> null
+RefactoringAction 1443691868260 TestSudokuVerifier.java RENAME <initializer /1>=>void Numbers() METHOD
+RefactoringAction 1443691869271 TestSudokuVerifier.java RENAME Numbers()=>void Numbersu() METHOD
+RefactoringAction 1443691872782 TestSudokuVerifier.java RENAME Numbersu()=>void NumberUnderTen() METHOD
+RefactoringAction 1443691900300 TestSudokuVerifier.java RENAME SubGlobalRepetition()=>void Repetition() METHOD
+RefactoringAction 1443691906813 TestSudokuVerifier.java RENAME GlobalNumber()=>void GlobalColumnNumber() METHOD
+RefactoringAction 1443691914824 TestSudokuVerifier.java RENAME SubGlobalNumber()=>void GlobalRowNumber() METHOD
+RefactoringAction 1443692074317 SudokuVerifier.java ADD String validAnswer FIELD
+RefactoringAction 1443692074317 SudokuVerifier.java ADD String invalidAnswer FIELD
+RefactoringAction 1443692209006 SudokuVerifier.java REMOVE checker FIELD
+RefactoringAction 1443692221532 SudokuVerifier.java ADD Scanner scanner FIELD
+RefactoringAction 1443692231966 SudokuVerifier.java ADD import java.util.Scanner IMPORT
+RefactoringAction 1443692237564 SudokuVerifier.java ADD Readable number FIELD
+RefactoringAction 1443692242582 SudokuVerifier.java REMOVE number FIELD
+RefactoringAction 1443692251132 SudokuVerifier.java RENAME scanner=>pr Scanner FIELD
+RefactoringAction 1443692258655 SudokuVerifier.java RENAME Scanner=>Integer number FIELD
+RefactoringAction 1443692310025 TestSudokuVerifier.java RENAME NumberUnderTen()=>void NumbersUnderTen() METHOD
+RefactoringAction 1443692353712 SudokuVerifier.java REMOVE scanner FIELD
+RefactoringAction 1443692360247 SudokuVerifier.java REMOVE number FIELD
+EditAction 1443692540541 SudokuVerifier.java 833 1 4 0
